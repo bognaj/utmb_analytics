@@ -1,2 +1,4 @@
-# utmb_analytics
-Collecting and analyzing the data from UTMB 2025 festival
+# UTMB 2025 analytics
+Project for:
+- scrapping the results from UTMB webpage
+- analysis of the results
